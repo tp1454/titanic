@@ -4,7 +4,7 @@ Dự án này là bài tập cho [Tên môn học/Challenge] nhằm phân tích 
 
 ## Thành viên Nhóm
 
-* 
+* Nguyễn Trần Phi Anh - 3124580004
 * Võ Minh Tiến - 3123580053
 * Nguyễn Trương Cao Sơn - 3123580040
 
